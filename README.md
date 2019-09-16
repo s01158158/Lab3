@@ -1,3 +1,5 @@
+The chapter was about multiple different types of operators like + and * that would either add a part to the code or repeat the code however amount of times you want. Elif was  introduced as an addition to the if else statement, along with three different ciphers that could either scramble characters, replace characters, or hold a key. Input was introduced as well, but i still can't seem to get it working all of the time unless i have the code separted from a big function.
+
 
 Count just counts how often something shows up in a specific line.
 Replace lets you change some line with whatever you want to change it with.
